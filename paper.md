@@ -1,7 +1,6 @@
 # Title
 
-Authors:
-
+Authors:Giorgia Danti
 
 ## Chapter A
 
