@@ -1,15 +1,15 @@
-#Title
+# Title
 
 Authors:
 
 
-##Chapter A
+## Chapter A
 
 This is for partner A
 To Do:
 
 
-##Chapter B
+## Chapter B
 
 
 This is for partner B
