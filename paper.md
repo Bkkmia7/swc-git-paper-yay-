@@ -11,6 +11,7 @@ To Do:
 
 ## Chapter B
 
-
-This is for partner B
-To Do: 
+Plant blooming habits:
+Most plants tend to bloom in spring, however there are some species that anticipate their blooming.
+Some other plants are also late bloomers.
+ 
