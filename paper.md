@@ -1,7 +1,7 @@
 # Title
 
-Authors: Muthita Khamwong
-
+<<<<<<< HEAD
+Authors: Muthita Khamwong, Giorgia Danti
 
 ## Chapter A
 
